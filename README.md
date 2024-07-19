@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoStreig&show_icons=true&theme=transparent)
 <br><br>  
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoStreig&layout=compact)](https://github.com/GustavoStreig/github-readme-stats)
 <!--
 **GustavoStreig/GustavoStreig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
