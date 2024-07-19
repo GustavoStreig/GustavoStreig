@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoStreig&show_icons=true&theme=transparent)
+<br><br>  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoStreig&layout=donut)](https://github.com/GustavoStreig)
 
 <!--
